@@ -1,0 +1,41 @@
+#Please use the main menu items under the "text"
+
+#- text: Home
+#  url: /
+#  submenu:
+#  - text: Home 2
+#    url: /index-2
+#  - text: Home 3
+#    url: /index-3
+#  - text: Home 4
+#    url: /index-4
+- text: Home
+  url: "/index"
+#- text: Konzept
+#  url: "/konzept"
+
+- text: Projekttagebuch
+  url: "/projekttagebuch"
+  
+#  submenu:
+#  - text: Blog One
+#    url: /blog-1
+#  - text: Blog Two
+#    url: /blog-2
+#- text: Pages
+#  url: /
+#  submenu:
+#  - text: Services
+#    url: /services
+#  - text: Portfolio One
+#    url: /portfolio-1   
+#  - text: Portfolio Two
+#    url: /portfolio-2   
+#  - text: Single Portfolio
+#    url: /portfolio-single
+#  - text: Contact
+#    url: /contact
+#  - text: 404
+#    url: /404
+#- text: Kontakt
+#  url: /_includes/footer_2.html
